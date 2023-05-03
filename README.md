@@ -4,4 +4,4 @@
 
 ## Asymmetric encryption
 
-<img src="https://user-images.githubusercontent.com/13381610/235984385-42efc9de-0b1d-485a-8d7b-810d353d2934.png" width="600">
+<img src="https://user-images.githubusercontent.com/13381610/235984385-42efc9de-0b1d-485a-8d7b-810d353d2934.png" width="1000">
